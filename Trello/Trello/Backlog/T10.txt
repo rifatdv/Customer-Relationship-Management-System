@@ -2,3 +2,5 @@ Recover Password Sales
 
 As a sales representative, I want to recover my password so that I can
 regain access if locked out.
+
+[Updated: Password is now recovered]
