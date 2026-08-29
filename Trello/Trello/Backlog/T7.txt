@@ -1,0 +1,4 @@
+Register Account
+
+As a customer, I want to register a new account so that I can access the
+system services.

@@ -1,0 +1,4 @@
+View Profile Sales
+
+As a sales representative, I want to view my profile details so that I
+can verify my information.

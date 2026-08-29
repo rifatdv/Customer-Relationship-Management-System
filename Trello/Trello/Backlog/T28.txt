@@ -1,0 +1,4 @@
+View Customers
+
+As an admin, I want to view all customer records so that I can monitor
+customer activity.

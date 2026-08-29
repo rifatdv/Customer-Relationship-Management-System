@@ -1,0 +1,4 @@
+Update Profile Sales
+
+As a sales representative, I want to update my information so that I can
+update my contact details.

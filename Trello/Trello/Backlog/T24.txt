@@ -1,0 +1,4 @@
+View Profile Support
+
+As a support representative, I want to view my profile details so that I
+can confirm my information.

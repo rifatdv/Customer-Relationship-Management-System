@@ -1,0 +1,4 @@
+Search Knowledge Base
+
+As a customer, I want to search for knowledge base articles so that I
+can solve issues without creating a ticket.

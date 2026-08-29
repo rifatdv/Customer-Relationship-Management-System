@@ -1,0 +1,4 @@
+View Sales Dashboard
+
+As a sales representative, I want to view my personalized dashboard so
+that I can see my assigned leads and targets.

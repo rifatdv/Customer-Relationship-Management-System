@@ -1,0 +1,4 @@
+View Profile Admin
+
+As an admin, I want to view my profile details so that I can see my
+registration information.

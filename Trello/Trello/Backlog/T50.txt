@@ -1,0 +1,4 @@
+View Sales Reports
+
+As an admin, I want to view sales reports so that I can analyze business
+performance.

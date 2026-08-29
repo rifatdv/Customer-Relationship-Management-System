@@ -1,0 +1,4 @@
+Resolve Ticket
+
+As a support representative, I want to mark a ticket as resolved so that
+I can close the issue properly.

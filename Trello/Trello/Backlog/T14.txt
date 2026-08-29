@@ -1,0 +1,4 @@
+Change Password Sales
+
+As a sales representative, I want to change my password so that I can
+keep my account secure.

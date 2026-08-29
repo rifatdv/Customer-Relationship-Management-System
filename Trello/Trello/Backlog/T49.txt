@@ -1,0 +1,4 @@
+View Sales Analytics
+
+As a sales representative, I want to view my sales analytics so that I
+can track my performance.

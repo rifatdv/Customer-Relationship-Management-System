@@ -1,0 +1,4 @@
+Escalate Ticket
+
+As a support representative, I want to escalate a ticket so that I can
+handle complex issues with higher support.

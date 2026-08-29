@@ -1,0 +1,4 @@
+Add Lead
+
+As a sales representative, I want to add a new customer or lead so that
+I can start a new sales opportunity.

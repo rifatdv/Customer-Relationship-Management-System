@@ -1,0 +1,4 @@
+Search Customers
+
+As a sales representative, I want to search for customers so that I can
+find records quickly.

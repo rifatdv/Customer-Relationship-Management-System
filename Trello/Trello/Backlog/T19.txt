@@ -1,0 +1,4 @@
+View Support Dashboard
+
+As a support representative, I want to view my personalized dashboard so
+that I can see my assigned tickets and tasks.
