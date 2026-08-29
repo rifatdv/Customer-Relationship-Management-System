@@ -1,0 +1,4 @@
+Recover Password Admin
+
+As an admin, I want to recover my password so that I do not lose access
+if I forget it.

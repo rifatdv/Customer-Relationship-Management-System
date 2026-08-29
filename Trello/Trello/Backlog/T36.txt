@@ -1,0 +1,4 @@
+Create Ticket Customer
+
+As a customer, I want to create a support ticket so that I can report an
+issue.

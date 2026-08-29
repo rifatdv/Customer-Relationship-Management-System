@@ -1,0 +1,4 @@
+View Deals
+
+As a customer, I want to view my sales inquiries or deals so that I can
+see my active or past deals.

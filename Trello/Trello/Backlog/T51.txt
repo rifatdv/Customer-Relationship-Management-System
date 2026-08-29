@@ -1,0 +1,4 @@
+View Support Metrics
+
+As an admin, I want to view support team performance metrics so that I
+can evaluate ticket resolution efficiency.

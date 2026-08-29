@@ -1,0 +1,4 @@
+View Leads
+
+As a sales representative, I want to view all my assigned leads or
+customers so that I can manage my pipeline.

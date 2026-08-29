@@ -1,0 +1,4 @@
+Add Notes Support
+
+As a support representative, I want to add internal notes or replies so
+that I can collaborate or update customers.

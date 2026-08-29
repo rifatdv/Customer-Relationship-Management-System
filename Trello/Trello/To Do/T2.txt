@@ -1,0 +1,4 @@
+Admin Login
+
+As an admin, I want to log in with a valid username and password so that
+the system can authenticate me.

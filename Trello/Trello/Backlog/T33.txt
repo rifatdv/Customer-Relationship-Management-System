@@ -1,0 +1,4 @@
+Add Notes Sales
+
+As a sales representative, I want to add notes or interaction history so
+that I can track all communications.

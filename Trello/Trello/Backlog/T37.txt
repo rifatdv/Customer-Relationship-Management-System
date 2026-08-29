@@ -1,0 +1,4 @@
+Create Ticket Support
+
+As a support representative, I want to create a new support ticket so
+that I can log customer issues.

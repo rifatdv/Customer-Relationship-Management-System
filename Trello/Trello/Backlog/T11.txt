@@ -1,0 +1,4 @@
+Recover Password Support
+
+As a support representative, I want to recover my password so that I can
+reset it if forgotten.

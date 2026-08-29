@@ -1,0 +1,4 @@
+Create Admin Profile
+
+As an admin, I want to create a new admin profile so that I can manage
+the system securely.

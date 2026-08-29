@@ -1,0 +1,4 @@
+View Tickets Support
+
+As a support representative, I want to view all tickets assigned to me
+so that I can manage my workload.

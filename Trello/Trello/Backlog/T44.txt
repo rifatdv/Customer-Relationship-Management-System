@@ -1,0 +1,4 @@
+Search Tickets
+
+As a support representative, I want to search for tickets so that I can
+find specific issues quickly.

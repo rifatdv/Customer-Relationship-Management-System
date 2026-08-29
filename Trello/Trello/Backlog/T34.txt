@@ -1,0 +1,4 @@
+Convert Lead
+
+As a sales representative, I want to convert a lead into a deal so that
+I can move promising leads forward.

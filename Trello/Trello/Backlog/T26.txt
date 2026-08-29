@@ -1,0 +1,4 @@
+View Profile Customer
+
+As a customer, I want to view my profile so that I can check my
+registered information.
